@@ -11,7 +11,7 @@ TikTok Sms Sender Mobile Api NEW UPDATE
 - Account create
 - X-Argus, X-Ladon, X-Gorgon, X-Khronos Included
  
-# Contact telegram https://t.me/@mariabosser
+# Contact telegram https://t.me/mariabosser
 
 telegram channel https://t.me/toolsgi
 
